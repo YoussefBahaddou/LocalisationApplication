@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocalisationSmartphone</string>
+    <string name="provider_enabled">The provider %s is now enabled</string>
+    <string name="provider_disabled">The provider %s is now disabled</string>
+    <string name="provider_new_status">The provider %1$s has now a new status %2$s</string>
+    <string name="new_location">New Location : Latitude = %1$.6f, Longitude = %2$.6f, Altitude = %3$.2f avec une précision de %4$.2f mètres </string>
+    <string name="send_location">Send Current Location to Database</string>
+    <string name="location_sent">Location successfully sent to database</string>
+    <string name="location_send_error">Error sending location: %s</string>
+    <string name="no_location">No location available. Please wait for GPS signal.</string>
+    <string name="permission_required">Location and phone permissions are required</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="view_on_map">View on Map</string>
+    <string name="location_saved_on_map">Location saved from map view</string>
+</resources>
